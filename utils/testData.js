@@ -1,6 +1,6 @@
 export const users = {
     standard: {
-        username: 'locked_out_user',
+        username: 'standard_user',
         password: 'secret_sauce'
     }
 };
